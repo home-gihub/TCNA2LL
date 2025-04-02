@@ -7,7 +7,7 @@ Type `/goto ` and then the level name to telepot to the desired level
 ## Remakes
   - `etsus12001+` A Super Mario Bros 1 remake
     - TIP: Use the Classic64 plugin
-  -  - `kob+` A Super Mario 64 remake
+  - `kob+` A Super Mario 64 remake
     - TIP: Use the Classic64 plugin
 ## Showcase
   - `epical+` A real with crazy good lighting using bots with custom models
