@@ -12,6 +12,7 @@ Type `/goto ` and then the level name to telepot to the desired level
 ## Showcase
   - `epical+` A realm with crazy good lighting using bots with custom models
   - `room` Room with RTX
+  - `fakepixel` Motion sickness
 ## Custom blocks
   - `Alexroman587+` A realm with most blocks from the minecraft beta era
 ## Shameless plug
