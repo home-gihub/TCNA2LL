@@ -10,7 +10,8 @@ Type `/goto ` and then the level name to telepot to the desired level
   - `kob+` A Super Mario 64 remake
     - TIP: Use the Classic64 plugin
 ## Showcase
-  - `epical+` A real with crazy good lighting using bots with custom models
+  - `epical+` A realm with crazy good lighting using bots with custom models
+  - `room` Room with RTX
 ## Custom blocks
   - `Alexroman587+` A realm with most blocks from the minecraft beta era
 ## Shameless plug
