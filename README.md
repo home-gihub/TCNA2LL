@@ -15,5 +15,8 @@ Type `/goto ` and then the level name to telepot to the desired level
   - `fakepixel` Motion sickness
 ## Custom blocks
   - `Alexroman587+` A realm with most blocks from the minecraft beta era
+## Games
+  - `minesweeper` Minesweeper game
+  - `siy_1` Baba is You in Classicube
 ## Shameless plug
  - `Home_gaming+` My own realm :)
