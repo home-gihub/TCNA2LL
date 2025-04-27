@@ -9,6 +9,7 @@ Type `/goto ` and then the level name to telepot to the desired level
     - TIP: Use the Classic64 plugin
   - `kob+` A Super Mario 64 remake
     - TIP: Use the Classic64 plugin
+  - `vexed50+15` Speedrun 4
 ## Showcase
   - `epical+` A realm with crazy good lighting using bots with custom models
   - `room` Room with "RTX" lighting using a custom texturepack
