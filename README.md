@@ -22,6 +22,6 @@ Type `/goto ` and then the level name to telepot to the desired level
   - `siy_1` Baba is You in Classicube
   - `bravelycowering+13` Survival in Classicube
 ## Adventure
-  - `backtick+17` Really interactive city map
+  - `backtick+tearville` Really interactive city map
 ## Shameless plug
  - `Home_gaming+` My own realm :)
